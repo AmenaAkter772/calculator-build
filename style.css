@@ -1,0 +1,38 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #00aaff, #00ff6c);
+
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 256px;
+    background: #add;
+    padding: 30px 15px 15px 15px;
+    box-shadow: 5px 5px 30px gray;
+}
+input[type="text"] {
+    width: 100%;
+    font-size: 30px;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: right;
+    
+   
+}
+input[type="button"]{
+    width: 58px;
+    height: 55px;
+    background: rgb(255, 255, 255, .75);
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+hr {
+    margin: 15px 0;
+}
+
+
